@@ -18,4 +18,4 @@ docker run -p 8080:8080 mohsin-node-uk
 
 ---
 
-**Built by Muhammad Mohsin — Onyx AI** · [YouTube](https://www.youtube.com/@onyxaipk) · [All products](https://mohsina91.gumroad.com) · [Catalog](https://onyxailabs.github.io/Catalog/)
+**Built by Muhammad Mohsin — Onyx AI** · [YouTube](https://www.youtube.com/@onyxaipk) · [All products](https://onyxailabs.gumroad.com) · [Catalog](https://onyxailabs.github.io/Catalog/)
